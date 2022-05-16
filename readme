@@ -1,0 +1,3 @@
+plasceholder를 opacity로 조절할 경우 visibility를 0 으로 줘서 존재 자체를 완전히 사라지게 해줘야 한다.
+
+input에 background로 아이콘을 넣어주게 되면 기존 배경색상을 잃게 되기 때문에 이미지 앞에 color 속성을 넣어줘야한다.
